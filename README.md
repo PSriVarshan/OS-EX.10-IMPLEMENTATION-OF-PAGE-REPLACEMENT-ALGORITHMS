@@ -71,6 +71,9 @@ int main()
 
   Thus the implementation of LRU page replacement is successfully executed.
 
+# ____________________________________________________________________________
+# ____________________________________________________________________________
+
 # PAGE REPLACEMENT ALGORITHM (OPR)
 
 ## AIM:
